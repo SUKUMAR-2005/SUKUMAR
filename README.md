@@ -1,4 +1,4 @@
-# 👋 Hi, I'm M. Sukumar
+# 👋 Hi, I'm Sukumar M
 
 🎓 Electrical Engineering Student | 💻 Full Stack Developer | 💻software developer 
 

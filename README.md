@@ -1,14 +1,14 @@
 # 👋 Hi, I'm M. Sukumar
 
-🎓 Electrical Engineering Student | 💻 Full Stack Developer | 🔌 Embedded Systems Enthusiast
+🎓 Electrical Engineering Student | 💻 Full Stack Developer | 💻software developer 
 
 ---
 
 ### 🧑‍💻 About Me
 
 - 💼 Full-stack developer trained in the **MERN stack**
-- 🚀 Projects: Food Delivery App, E-commerce Website, Overvoltage Relay
-- 🔧 Skilled in React.js, Node.js, MongoDB, and Embedded C
+- 🚀 Projects: Food Delivery App, E-commerce Website.
+- 🔧 Skilled in React.js, Node.js, MongoDB.
 - 💬 Ask me about full-stack dev, microcontrollers, or GitHub
 
 ---
@@ -23,7 +23,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
+
 
 ---
 
